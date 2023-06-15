@@ -54,7 +54,6 @@ keras-ocr==0.8.9
 kiwisolver==1.4.4
 lazy-loader==0.2
 libclang==16.0.0
-libffi==3.4.4
 libsodium==1.0.18
 markdown==3.4.3
 markdown-it-py==3.0.0
